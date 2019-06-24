@@ -1,0 +1,10 @@
+C:\Users\Ti\source\repos\GenerelR\GenerelR\bin\Debug\GenerelR.exe.config
+C:\Users\Ti\source\repos\GenerelR\GenerelR\bin\Debug\GenerelR.exe
+C:\Users\Ti\source\repos\GenerelR\GenerelR\bin\Debug\GenerelR.pdb
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.Properties.Resources.resources
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.csproj.GenerateResource.cache
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.csproj.CoreCompileInputs.cache
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.exe
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.pdb
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.Form1.resources
+C:\Users\Ti\source\repos\GenerelR\GenerelR\obj\Debug\GenerelR.csprojAssemblyReference.cache
