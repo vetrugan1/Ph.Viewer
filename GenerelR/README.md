@@ -1,2 +1,2 @@
 # GenerelR
-This is programm for to view a photo/
+This is programm for to view a photos/
